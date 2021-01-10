@@ -1,0 +1,309 @@
+.navbar{
+    background:#87509c;
+}
+.top-area{
+    background:#87509c;
+}
+.hithere h2{
+    text-align:center;
+    font-size:42.16 px;
+    color:white;
+    width:800px;
+    margin: 0 auto;
+}
+.workbtn{
+    padding:15px 50px;
+    background:#eb7d4b;
+    border:none;
+    border-radius:7px;
+    color:#fff;
+    font-weight:600;
+    font-size:17px;
+    display:block;
+    margin:40px auto;
+    font-family:inherit;
+    transition:0.5s;
+    
+}
+.workbtn:hover{
+    box-shadow: inset 1px 1px 13px 1px rgba(0,0,0,0.5);
+    cursor:pointer;
+}
+/*service section design start here*/
+.service-section{
+    background:#17c2a4;
+    
+}
+.service-section h2{
+    padding-top:80px;
+    font-weight:600; 
+    letter-spacing:5px;
+}
+.service-section h4{
+      text-transform:uppercase;
+}
+.servicehr{
+    width:80px;
+    border-bottom:4px solid #14a58c;
+    padding:0;
+}
+
+.service-section p{
+    margin:0;
+    padding:0;
+    font-size:15px;
+    font-weight:600;
+    
+}
+/*team section start here*/
+#team-member-sec{
+    background:#e7f1f8;
+}
+.members-photo{
+    height:200px;
+    width:200px;
+    border:none;
+    border-radius:50%;
+    background:#878787;
+    margin:0 auto;
+    
+    
+}
+.members-photo img{
+    height: 140px;
+    width: 140px;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+.teamhr{
+    width:80px;
+    border-bottom:4px solid #c8d9e5;
+    padding:0;
+}
+.icons-img{
+height: 40px;
+width: 40px;
+border: none;
+background: grey;
+border-radius: 50%;
+padding: 7px;
+display: inline-flex;
+}
+.team-header{
+    padding-top:80px;
+    font-weight:600;
+    color:#3c4761;
+    letter-spacing:5px;
+}
+.team-para{
+    font-size:16px;
+    color:#3c4761;
+}
+.team-member h4{
+    font-size:24px;
+    color:#27283d;
+    text-transform:uppercase;
+    font-family:monospace;
+}
+.team-member h6{
+    font-size:16px;
+    color:#30bae7;
+}
+.team-member p{
+    color:#3c4761;
+    font-size:16px;
+}
+/*skills section*/
+#skills-sec{
+    background:#fff;
+}
+#skills-sec h4{
+    font-size:20px;
+    color:#3c4761;
+    font-weight:600;
+    margin-top:15px;
+   
+    
+}
+#skills-sec h2{
+    padding-top:80px;
+    font-weight:600;
+     color:#3c4761;
+    letter-spacing:5px;
+    
+}
+#skills-sec p{
+    color:#3c4761;
+    font-size:16px;
+    width:50%;
+    margin:0 auto;
+}
+/*portfolio sec*/
+
+
+#portfolio-sec{
+    background:#ffdd99;
+}
+#portfolio-sec h2{ 
+    font-weight:600; 
+    color:#3c4761;
+    letter-spacing:5px;
+}
+#portfolio-sec p{
+    width:50%;
+    margin:0 auto;
+}
+#portfolio-sec .porthr{
+    width:80px;
+    border-bottom:4px solid #e5c37f;
+    padding:0;
+}
+#portfolio-sec button{
+    padding:0px 15px;
+    margin:0 2px;
+    background:#ebc985;
+    text-transform:uppercase;
+}
+#portfolio-sec button:hover{
+    box-shadow: inset 1px 1px 13px 1px rgba(0,0,0,0.5);
+    cursor:pointer;
+}
+#portfolio-sec .active{
+    background:#fff;
+}
+#portfolio-sec img{
+    height:250px;
+    width:400px;
+    
+}
+#portfolio-sec p{
+    color:#3c4761;
+    font-size:16px;
+    
+    
+}
+#portfolio-sec .load-btn{
+    color:#fff;
+    background:#17c2a4;
+    padding:10px 40px;
+    font-size:17px;
+    font-weight:600;
+}
+/*people say-sec*/
+#people-say-sec{
+    background:#d74680;
+}
+#people-say-sec h2{
+    color:#fff;
+    font-weight:600;
+    letter-spacing:5px;
+}
+#people-say-sec .porthr{
+     width:80px;
+    border-bottom:4px solid #b73c6d;
+    padding:0;
+}
+#people-say-sec p{
+    color:#f7f3ea;
+    font-size:15px;
+    font-weight:600;
+}
+#people-say-sec .img{
+    height:100px;
+    width:100px;
+    background:#787878;
+    border-radius:50%;
+    
+}
+#people-say-sec .img img{
+   height:50px;
+    width:70px;
+    margin-top:20px;
+    
+}
+#people-say-sec h4{
+   text-transform: uppercase;
+}
+#people-say-sec h6{
+    color:#ffdd99;
+    font-size:15px;
+}
+
+/*get in touch design*/
+#get-touch-sec{
+    background:#3c5499;
+    
+}
+#get-touch-sec .container{
+    width:60%;
+    margin:0 auto;
+}
+#get-touch-sec .touchhr{
+    width:80px;
+    border-bottom:4px solid #273a71;
+    padding:0;
+}
+#get-touch-sec h2{
+    color:#fff;
+    font-weight:600;
+    letter-spacing:5px;
+}
+#get-touch-sec p{
+     color:#f7f3ea;
+    font-size:15px;
+    font-weight:600;
+}
+#get-touch-sec form .name-email{
+    width:100%;
+    height:40px;
+    padding-left:10px;
+    border-radius:5px;
+    border:none;
+    background:#273a71;
+    color:#fff;
+}
+#get-touch-sec form .message{
+    margin:0 auto;
+    width:97%;
+    height:240px;
+    padding-left:10px;
+    border-radius:5px;
+    border:none;
+    background:#273a71;
+    color:#fff;
+}
+#get-touch-sec form .name-email::placeholder{
+    color:white;
+    
+}
+#get-touch-sec form .message::placeholder{
+    color:white;
+}
+#get-touch-sec input[type="submit"]{
+    padding:10px 40px;
+    background:#30bae7;
+    color:#fff;
+    text-transform: uppercase;
+    font-weight:600;
+    font-size:16px;
+    border:none;
+    margin-top:30px;
+    border-radius:10px;
+}
+#get-touch-sec input[type="submit"]:hover{
+    box-shadow: inset 1px 1px 13px 1px rgba(0,0,0,0.5);
+    cursor:pointer;
+}
+footer{
+    background:#344b8e;
+}
+footer a{
+    color:#fff;
+    font-size:17px;
+    font-weight:600;
+    padding:0 30px;
+}
+footer a:hover{
+  color:#30bae7;
+    text-decoration:none;
+}

@@ -1,0 +1,195 @@
+@media screen and (max-width:991px){
+    
+/*    navbar section here*/
+    .navbar-sec button{
+        font-size:60px;
+    }
+    .navbar-sec img{
+        height:110px;
+        width:240px;
+    }
+    .navbar-sec ul{
+        margin-top:40px;
+        text-align:center;
+    }
+    .navbar-sec ul li a{
+        font-size:50px;
+    }
+    
+/*    hi there section here*/
+    .hithere{
+        padding-top:150px;
+    }
+    #hitheresec h2{
+        font-size:55px;
+        
+    }
+    #hitheresec button{
+        font-size:40px;
+    }
+    .service-section h2{
+        font-size:55px;
+    }
+    .service-section .servicehr{
+        width:200px;
+        border-bottom:10px solid #14a58c;
+    }
+    .service-section p{
+    font-size:34px;
+    font-weight:600;
+    }
+    .service-section h4{
+        font-size:50px;
+    }
+    /*team section start here*/
+    .members-photo{
+    height:350px;
+    width:350px;   
+}
+    .members-photo img{
+    height: 230px;
+    width: 220px;
+    margin: 0 auto;
+    margin-top: 55px;
+}
+
+.team-header{
+    font-size:55px;
+}
+
+    .teamhr{
+        width:200px;
+        border-bottom:10px solid #c8d9e5;
+}
+.team-para{
+    font-size:34px;
+} 
+.team-member h4{
+        font-size:50px;
+    }
+.team-member h6{
+    font-size:33px;
+}
+.team-member p{
+    font-size:34px;
+}
+    .team-member .icons-img{
+        height:90px;
+        width:90px;
+        margin-left:10px;
+        padding:-60px;
+        overflow:hidden;
+        
+    }
+ /*skills section*/
+    #skills-sec h2{
+        font-size:55px;
+    }  
+#skills-sec h4{
+    font-size:35px;
+    margin-top:30px;
+    overflow:hidden;
+    }
+#skills-sec p{
+    color:#3c4761;
+    font-size:34px;
+    width:80%;
+}
+    #skills-sec img{
+        height:100%;
+    }  
+    #skills-sec .last-two-img{
+        margin-top:100px;
+    }
+ /*portfolio sec*/   
+    
+    #portfolio-sec h2{ 
+       font-size:55px; 
+    }
+    #portfolio-sec p{
+        font-size:35px;
+        width:80%;
+        margin-bottom:25px;
+    }
+    #portfolio-sec button{
+    padding:10px 35px;
+    margin:0 12px;
+    font-size:30px;
+    font-weight:600;
+}
+    #portfolio-sec img{
+        width:100%;
+    }
+    #portfolio-sec .load-btn{
+        font-size:35px;
+        padding:15px 70px;
+        font-weight:600;
+        border-radius:10px;
+    }
+    
+/*people say-sec*/
+    #people-say-sec h2{
+        font-size:50px;
+    }
+    #people-say-sec .porthr{
+         width:200px;
+        border-bottom:10px solid #b73c6d;
+    }
+    #people-say-sec p{
+        font-size:44px;
+    }
+    #people-say-sec .img{
+       margin:10px auto;
+        width:100%;
+        height:90%
+    }
+    #people-say-sec .img img{ 
+    margin-top:70px
+    }
+     #people-say-sec i{
+       font-size:35px;
+    }
+    #people-say-sec h4{
+        font-size:30px;
+        color:#FFDD99;
+    }
+     #people-say-sec h6{
+        font-size:20px;
+        color:#FFDD99;
+    }
+/*get in touch design*/
+#get-touch-sec h2{
+    font-size:55px;
+}
+ #get-touch-sec .touchhr{
+       width:200px;
+        border-bottom:10px solid #273a71;
+}
+    #get-touch-sec p{
+        font-size:34px;
+    }
+    #get-touch-sec form .name-email{
+        width:100%;
+    }
+    #get-touch-sec .container{
+    width:90%;
+    margin:0 auto;
+    }
+    #get-touch-sec form .name-email{
+        height:60px;
+        font-size:40px;
+        padding-left:19px;
+    }
+    #get-touch-sec form .message{
+        font-size:40px;
+        padding-left:19px;
+    }
+    #get-touch-sec button{
+        font-size:34px;
+        padding:
+    }
+    footer a{
+    font-size:34px;
+    }
+        
+}
