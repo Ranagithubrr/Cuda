@@ -184,7 +184,7 @@
         font-size:40px;
         padding-left:19px;
     }
-    #get-touch-sec button{
+    #get-touch-sec input[type="submit"]{
         font-size:34px;
         padding:
     }
